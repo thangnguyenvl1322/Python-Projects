@@ -1,0 +1,5 @@
+TODO|Name:Study|Goal Type:NUM|Number:6.0|Phrase:Hours|Current Status:0|Date:[1, 2, 3, 4, 5]
+TODO|Name:Workout|Goal Type:YN|Number:NOT APPLICABLE|Phrase:Shoulders & Legs|Current Status:Uncompleted|Date:[1, 3, 5]
+TODO|Name:Workout2|Goal Type:YN|Number:NOT APPLICABLE|Phrase:Chest & Back|Current Status:Uncompleted|Date:[2, 4, 6]
+TODO|Name:Tutor Bun|Goal Type:YN|Number:NOT APPLICABLE|Phrase:English Tutoring|Current Status:Uncompleted|Date:[1, 2, 3, 4]
+TODO|Name:Testing|Goal Type:NUM|Number:6.0|Phrase:Hours|Current Status:0|Date:[99, 'December 29, 2020']

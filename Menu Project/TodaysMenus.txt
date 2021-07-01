@@ -1,0 +1,90 @@
+
+
+Menu: Breakfast;
+Number of item: 2;
+Start Time: 6am;
+End Time: 11am;
+
+List of items and their respective cost ($):
+
+C: {'Pho': '12.0', 'Bun Bo Hue': '14.0'};
+
+List of items and their respective stock:
+
+S: {'Pho': '100', 'Bun Bo Hue': '300'};
+_______________________________________________________
+
+
+Menu: Lunch;
+Number of item: 2;
+Start Time: 11am;
+End Time: 5pm;
+
+List of items and their respective cost ($):
+
+C: {'Fried Chicken': '15.0', 'Thai Curry': '14.5'};
+
+List of items and their respective stock:
+
+S: {'Fried Chicken': '400', 'Thai Curry': '350'};
+_______________________________________________________
+
+
+Menu: Dinner;
+Number of item: 2;
+Start Time: 5pm;
+End Time: 10pm;
+
+List of items and their respective cost ($):
+
+C: {'Steak & Potatoes': '25.5', 'Lobster Ravioli': '30.0'};
+
+List of items and their respective stock:
+
+S: {'Steak & Potatoes': '500', 'Lobster Ravioli': '275'};
+_______________________________________________________
+
+
+Menu: Drinks;
+Number of item: 2;
+Start Time: 6:00am;
+End Time: 10:00pm;
+
+List of items and their respective cost ($):
+
+C: {'Water': '2.0', 'Coffee': '4.0', 'British Tea': '3.5'};
+
+List of items and their respective stock:
+
+S: {'Water': '1000', 'Coffee': '1000', 'British Tea': '1000'};
+_______________________________________________________
+
+
+Menu: Desserts;
+Number of item: 3;
+Start Time: 6:00am;
+End Time: 10:00pm;
+
+List of items and their respective cost ($):
+
+C: {'Ice Cream (1 scoop)': '6.0', 'New York Cheese Cake': '9.5', 'Lava Cake': '7.5'};
+
+List of items and their respective stock:
+
+S: {'Ice Cream (1 scoop)': '800', 'New York Cheese Cake': '600', 'Lava Cake': '350'};
+_______________________________________________________
+
+
+Menu: Cake Menu;
+Number of item: 1;
+Start Time: 6:00am;
+End Time: 10:00pm;
+
+List of items and their respective cost ($):
+
+C: {'Cake': '12.0'};
+
+List of items and their respective stock:
+
+S: {'Cake': '100'};
+_______________________________________________________
